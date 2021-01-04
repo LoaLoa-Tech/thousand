@@ -1,3 +1,6 @@
 [submodule "src/components"]
 	path = src/components
 	url = git@github.com:LoaLoa-Tech/components.git
+[submodule "src/utils"]
+	path = src/utils
+	url = git@github.com:LoaLoa-Tech/utils.git
